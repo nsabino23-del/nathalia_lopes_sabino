@@ -1,1 +1,9 @@
-# nathalia_lopes_sabino
+# Olá, me chamo Nathalia!- Estudante de Desenvolvimento de Sistemas
+# Como me encontrar[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-lopes-sabino-14936b2a4/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:n.sabino23@gmail.com)
+# Tecnologias que estudo<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img align="center" alt="Csharp" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></div>
